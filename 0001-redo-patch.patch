@@ -17,11 +17,7 @@ index 7dffd9c..0000000
 --- a/0001-Re-add-sample-unit-test.patch
 +++ /dev/null
 @@ -1,44 +0,0 @@
--From 879221fec2b863d37d5b493f02a530a8098ef6ef Mon Sep 17 00:00:00 2001
--From: Joe Ferrer <joe@theforage.com>
--Date: Wed, 1 Mar 2023 00:11:51 +1100
--Subject: [PATCH] Re-add sample unit test
--
+
 ----
 - client_test.py | 25 +++++++++++++++++++++++++
 - 1 file changed, 25 insertions(+)
